@@ -1,0 +1,8 @@
+.formCadastro {
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+    color: #ce477f;
+    padding: 60px;
+    border-radius: 10px;
+}

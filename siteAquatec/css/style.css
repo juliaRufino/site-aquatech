@@ -1,3 +1,7 @@
+* {
+    font-family: Arial;
+}
+
 body {
     margin: 0;
     padding: 0;
@@ -42,7 +46,7 @@ body {
 }
 
 .banner .container {
-    height: 500px;
+    height: 81.1vh;
     justify-content: center;
     align-items: center;
 }
@@ -75,5 +79,26 @@ body {
 
 .box img {
     width: 170px;
+}
+
+.box h4 {
+    color: #CE477F;
+    font-weight: bold;
+}
+
+/* Começo do Footer */
+
+.footer {
+    width: 100%;
+    height: 100px;
+    background-color: #32B9CD;
+    color: white;
+}
+
+.footer .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
 }
 
